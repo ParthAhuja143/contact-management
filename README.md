@@ -66,7 +66,3 @@ npm start
 - Redux: State management for contact data.
 - React Leaflet: Integrates Leaflet maps into the React app.
 - React ChartJS 2: Library for creating interactive and visually appealing charts.
-
-## Build with 💜 by
-- GitHub: [ Vikas Parmar ](https://github.com/vikas-parmar)
-- LinkedIn: [ Vikas Parmar ](https://www.linkedin.com/in/vikas-parmar/)
